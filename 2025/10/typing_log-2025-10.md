@@ -4,4 +4,4 @@
 - 難易度：普通
 - コース：高級
 - スコア：4,730円  
-![screenshot](2025/10/screenshots/2025-10-01.png)
+![screenshot](susida-log/2025/10/screenshots/2025-10-01.png)
