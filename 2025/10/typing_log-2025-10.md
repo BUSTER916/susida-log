@@ -5,3 +5,9 @@
 - コース：高級
 - スコア：4,730円  
 ![screenshot](screenshots/2025-10-01.png)
+
+## 2025-10-02
+- 難易度：普通
+- コース：高級
+- スコア：6,900円  
+![screenshot](screenshots/2025-10-02.png)
