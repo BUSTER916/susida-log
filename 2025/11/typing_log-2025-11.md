@@ -88,5 +88,11 @@ ___
 - 難易度：普通
 - コース：高級
 - スコア：9,020円  
-![screenshot](screenshots/2025-11-14.png)
+![screenshot](screenshots/2025-11-15.png)
+___
+## 2025-11-16
+- 難易度：普通
+- コース：高級
+- スコア：9,780円  
+![screenshot](screenshots/2025-11-16.png)
 ___
